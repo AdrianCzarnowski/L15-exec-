@@ -4,7 +4,8 @@ public class ImagesTest extends TestBase {
 
     @Test
     public void imageTest() {
-        homePage.goToWomanSection()
+        homePage
+                .goToWomanSection()
                 .goToBlousesSection();
         blousesPage
                 .navigateToPicture()
