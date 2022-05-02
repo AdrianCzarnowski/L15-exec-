@@ -1,4 +1,4 @@
-package configuration.config;
+package pages.config;
 
 import configuration.helpers.reader.YamlReader;
 import configuration.model.DriverEnum;

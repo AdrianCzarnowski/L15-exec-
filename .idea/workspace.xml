@@ -22,13 +22,13 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "C:/Users/aczarnowski/IdeaProjects/L15-exec-"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/aczarnowski/IdeaProjects/L15-exec-&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\aczarnowski\IdeaProjects\L15-exec-" />
@@ -37,7 +37,16 @@
       <recent name="C:\Users\aczarnowski\IdeaProjects\L15-exec-\src\main\java" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="JUnit.ImagesTest">
+    <configuration name="ImagesTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Lesson15" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="ImagesTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="ImagesTest.imageTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="L15-exec-" />
       <option name="PACKAGE_NAME" value="" />
@@ -50,6 +59,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.ImagesTest" />
         <item itemvalue="JUnit.ImagesTest.imageTest" />
       </list>
     </recent_temporary>

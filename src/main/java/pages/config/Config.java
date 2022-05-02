@@ -1,4 +1,4 @@
-package configuration.config;
+package pages.config;
 
 import configuration.model.EnvironmentList;
 import lombok.Data;
