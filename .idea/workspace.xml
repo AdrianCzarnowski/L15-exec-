@@ -37,12 +37,22 @@
       <recent name="C:\Users\aczarnowski\IdeaProjects\L15-exec-\src\main\java" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.ImagesTest">
+  <component name="RunManager" selected="JUnit.ImagesTest.imageTest (1)">
     <configuration name="ImagesTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Lesson15" />
       <option name="PACKAGE_NAME" value="" />
       <option name="MAIN_CLASS_NAME" value="ImagesTest" />
       <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ImagesTest.imageTest (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Lesson15" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="ImagesTest" />
+      <option name="METHOD_NAME" value="imageTest" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -59,6 +69,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.ImagesTest.imageTest (1)" />
         <item itemvalue="JUnit.ImagesTest" />
         <item itemvalue="JUnit.ImagesTest.imageTest" />
       </list>
