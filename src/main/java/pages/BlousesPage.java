@@ -19,7 +19,6 @@ public class BlousesPage extends BasePage {
     private WebElement quickViewBtn;
 
 
-
     public BlousesPage navigateToPicture() {
         hover(picture);
         return this;

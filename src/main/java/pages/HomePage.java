@@ -19,7 +19,6 @@ public class HomePage extends BasePage {
     private WebElement blousesBtn;
 
 
-
     public HomePage goToWomanSection() {
         hover(womanBtn);
         log.info(womanBtn.getText() + " section founded");
