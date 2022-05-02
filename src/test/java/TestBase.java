@@ -1,4 +1,4 @@
-import pages.config.App;
+import configuration.config.App;
 import configuration.factory.DriverFactory;
 import org.junit.jupiter.api.AfterEach;
 import org.junit.jupiter.api.BeforeAll;

@@ -4,7 +4,7 @@ import com.fasterxml.jackson.core.exc.StreamReadException;
 import com.fasterxml.jackson.databind.DatabindException;
 import com.fasterxml.jackson.databind.ObjectMapper;
 import com.fasterxml.jackson.dataformat.yaml.YAMLFactory;
-import pages.config.Config;
+import configuration.config.Config;
 import lombok.Data;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;

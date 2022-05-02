@@ -1,4 +1,4 @@
-package pages.config;
+package configuration.config;
 
 import configuration.model.DriverEnum;
 import lombok.Data;
